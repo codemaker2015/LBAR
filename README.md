@@ -11,4 +11,4 @@ Location-Based Augmented Reality using WikiTude
 
 Video Tutorial : https://www.youtube.com/watch?v=1B5rv7Wfs5Y&feature=emb_logo
 
-For more: https://www.wikitude.com/download-wikitude-sdk-for-location-based-ar-for-unity/
+For more: https://www.wikitude.com/download-wikitude-sdk-for-location-based-ar-for-unity
